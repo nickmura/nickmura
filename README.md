@@ -5,7 +5,7 @@ My name is Nick Mura, and I am an aspiring software developer, and cryptography 
 
 - 🔭 My main project I am currently working full time on is **[trxmini.games](http://github.com/nickmura/trxmini.games/)** which is a wagering platform for minigames and eSports titles on TRON and soon to be BTTC. Soon, I will be posting articles and blogposts on my site **[nickmura.ca](https://nickmura.ca)**
 
-- 🧠 My main languages currently are JavaScript/TypeScript, Solidity, Python, Svelte, and CSS/HTML. More will be added here soon as my journey continues
+- 🧠 My main languages currently are **JavaScript/TypeScript, Solidity, Python, Svelte, and CSS/HTML.**
 
 - 🐇 I am soon going to be learning C & Rust to excell my expertise in systems programming.
 

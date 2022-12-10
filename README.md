@@ -11,7 +11,7 @@ My name is Nick Mura, and I am an aspiring software developer, and cryptography 
 
 - 🤔 Ask me anything about crypto, blockchain, AI, functional programming, music, or anything related to programming.
 
-- 💬 You can reach me via [Twitter](https://twitter.com/nickmura/) or at my email dev@nickmura.ca
+- 💬 You can reach me via [Twitter](https://twitter.com/nickmura/) or at my email dev@nickmura.ca 🤙 Cheers!
 
 
 

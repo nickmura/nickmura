@@ -1,7 +1,7 @@
 ### Hello everyone! 
 
 
-My name is Nick Mura, and I am an aspiring and ambitious software developer from Edmonton, Canada. My interests are developing and scaling projects, cryptography systems, blockchain tech, and jumping head first into new technologies and skillsets.
+My name is Nick Mura, and I am an aspiring and ambitious fullstack software developer from Edmonton, Canada. My interests are developing and scaling projects, cryptography systems, blockchain tech, and jumping head first into new technologies and skillsets.
 
 - 🔭 My main project I am currently working full time on is **[trxmini.games](http://github.com/nickmura/trxmini.games/)** which is a wagering platform for minigames and eSports titles on TRON and soon to be BTTC. Soon, I will be posting articles and blogposts on my site **[nickmura.ca](https://nickmura.ca)**
 
